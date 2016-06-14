@@ -4,7 +4,7 @@ Remember Quran with me is a collaborative real-time application mainly for Huffa
 ## StoryLine:
 Ramadan is the sacred month with quite a lot of blessings and characteristics, one of which is the:
 
-### Sunnah of Prophet Muhammad (صلی اللہ علیہ وسلم) where he would recite and listen to Quran to and from Angel Gabriel (عليه السلام) respectively.
+### Sunnah of Prophet Muhammad (صلی اللہ علیہ وسلم) where he would recite and listen Quran to and from Angel Gabriel (عليه السلام) respectively.
 
 Today, when everything is revolutionized by the usage of technology, why not revive this sunnah at massive scale by making it easy and available for everyone around the world. Remember Quran with me is a small initiative with a big vision to revive the lost treasures of Islam (This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion. [Quran 5:3]).
 
