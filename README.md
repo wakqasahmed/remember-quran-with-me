@@ -17,9 +17,15 @@ Finding a person physically is cumbersome these days due to busy lives and as ev
 
 ## How it works (or should work):
 1) Register/Login
+
 2) Everytime choose either to be a reciter or listener (one at a time)
+
 3) If listener: you are gonna see a list of reciters awaiting for listeners to engage with
+
 4) If reciter: express your intent of recitation by choosing juz/surah and range of verses. wait for a listener for invitation to start
+
 5) Reciter recites and listener logs the mistakes.
+
 6) Reciter completes recitation and says 'صدق الله العظيم' and the session is over.
+
 7) Reciter looks into the progress how he/she performed.
