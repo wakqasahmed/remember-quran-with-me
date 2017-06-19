@@ -29,3 +29,8 @@ Finding a person physically is cumbersome these days due to busy lives and as ev
 6) Reciter completes recitation and says 'صدق الله العظيم' and the session is over.
 
 7) Reciter looks into the progress how he/she performed.
+
+Technology Stack:
+
+Apache OpenMeetings: http://openmeetings.apache.org/installation.html
+X2 Node Framework: http://x2node.com/
